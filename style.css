@@ -1,0 +1,400 @@
+@import url("https:fonts.googleapis.com/css?family=Montserrat:700|Open+Sans:700|Comfortaa:400,300,700");
+
+.trugova-home {
+  align-items: flex-start;
+  background-color: #f5f7fb;
+  border: 1px none;
+  display: flex;
+  gap: 28px;
+  height: 1828px;
+  width: 1440px;
+}
+
+.hidden,
+.hidden * {
+  pointer-events: none;
+  visibility: hidden;
+}
+
+.overlap-group1 {
+  height: 1584px;
+  position: relative;
+  width: 283px;
+}
+
+.rectangle-24 {
+  height: 57px;
+  left: 0;
+  position: absolute;
+  top: 156px;
+  width: 5px;
+}
+
+.beranda {
+  color: var(--blue-marguerite);
+  font-family: var(--font-family-comfortaa);
+  font-size: var(--font-size-l);
+  font-weight: 700;
+  left: 84px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 178px;
+  width: 199px;
+}
+
+.users {
+  height: 39px;
+  left: 33px;
+  position: absolute;
+  top: 298px;
+  width: 42px;
+}
+
+.tentang-kami {
+  left: 86px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 307px;
+  width: 117px;
+}
+
+.check-1 {
+  height: 29px;
+  left: 162;
+  object-fit: cover;
+  position: absolute;
+  top: 57px;
+  width: 30px;
+}
+
+.deteksi {
+  left: 84px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 241px;
+  width: 199px;
+}
+
+.home {
+  height: 34px;
+  left: 33px;
+  position: absolute;
+  top: 168px;
+  width: 34px;
+}
+
+.search {
+  height: 30px;
+  left: 35px;
+  position: absolute;
+  top: 233px;
+  width: 30px;
+}
+
+.trugo-a {
+  color: var(--black);
+  font-family: var(--font-family-montserrat);
+  font-size: var(--font-size-xxxl);
+  font-weight: 700;
+  left: 54px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 53px;
+  width: 169px;
+}
+
+.rectangle-25 {
+  height: 1584px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 274px;
+}
+
+.flex-col {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-top: 35px;
+  min-height: 1549px;
+  width: 1053px;
+}
+
+.overlap-group3 {
+  align-items: center;
+  background-color: var(--white);
+  border-radius: 30px;
+  display: flex;
+  flex-direction: column;
+  margin-top: 20px;
+  min-height: 545px;
+  padding: 31px 63px;
+  width: 1051px;
+}
+
+.overlap-group5 {
+  align-items: flex-start;
+  align-self: flex-start;
+  background-image: url(https://anima-uploads.s3.amazonaws.com/projects/636f8b1e1b49d7fec9779748/releases/637c411b33985a0d68bb3a4e/img/rectangle-28.png);
+  background-size: 100% 100%;
+  display: flex;
+  height: 324px;
+  margin-top: 18px;
+  min-width: 913px;
+  padding: 19px 21px;
+}
+
+.masukkan-berita-yang {
+  color: #979797;
+  font-family: var(--font-family-comfortaa);
+  font-size: var(--font-size-l);
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 34px;
+  width: 612px;
+}
+
+.deteksi-1 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 3px;
+  min-height: 45px;
+  width: 100px;
+}
+
+.overlap-group4 {
+  border-radius: 20px;
+  height: 52px;
+  margin-right: 1px;
+  margin-top: 37px;
+  position: relative;
+  width: 178px;
+}
+
+.prediksi {
+  color: var(--white);
+  font-family: var(--font-family-open_sans);
+  font-size: var(--font-size-xxl);
+  font-weight: 700;
+  left: 39px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-shadow: 0px 0.88px 79.37px #00000001;
+  top: 8px;
+}
+
+.rectangle-31 {
+  background-color: var(--blue-marguerite);
+  border: 1px none;
+  border-radius: 20px;
+  box-shadow: 0px 17.69px 79.37px #00000002, 0px 33.83px 128.49px #00000003, 0px 48.48px 169.85px #00000004, 0px 62.37px 216.85px #00000004, 0px 80.61px 288.96px #00000006, 0px 161px 487px #00000008;
+  cursor: pointer;
+  height: 52px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 178px;
+}
+
+.flex-row {
+  align-items: center;
+  display: flex;
+  gap: 37px;
+  margin-top: 8px;
+  min-width: 1051px;
+}
+
+.overlap-group {
+  align-items: flex-end;
+  background-color: var(--white);
+  border-radius: 30px;
+  display: flex;
+  flex-direction: column;
+  gap: 11px;
+  margin-top: 8px;
+  min-height: 226px;
+  padding: 20px 6px;
+  width: 567px;
+}
+
+.trugova-merupakan-ke {
+  align-self: center;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-right: 7px;
+  min-height: 84px;
+  width: 494px;
+}
+
+.pendeteksi-berita-pa {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 72px;
+  width: 528px;
+}
+
+.cityscapes-downtown {
+  height: 266px;
+  width: 447px;
+}
+
+.flex-col-1 {
+  align-items: flex-start;
+  background-color: var(--white);
+  border-radius: 30px;
+  display: flex;
+  flex-direction: column;
+  gap: 52px;
+  margin-left: 2px;
+  margin-top: 41px;
+  min-height: 616px;
+  padding: 37px 61px;
+  width: 1051px;
+}
+
+.flex-col-2 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  min-height: 381px;
+  width: 907px;
+}
+
+.flex-row-1 {
+  align-items: center;
+  align-self: flex-end;
+  display: flex;
+  margin-right: 32px;
+  margin-top: 68px;
+  min-width: 706px;
+}
+
+.mask-group {
+  height: 80px;
+  margin-left: 250px;
+  width: 80px;
+}
+
+.name {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: 2px;
+  margin-left: 26px;
+  min-height: 34px;
+  width: 175px;
+}
+
+.name-1 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: 2px;
+  min-height: 34px;
+  width: 175px;
+}
+
+.tujuan-kami-membangu {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: 48px;
+  min-height: 63px;
+  width: 907px;
+}
+
+.tentang-kami-1 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 22px;
+  min-height: 45px;
+  width: 185px;
+}
+
+.founder {
+  color: var(--blue-marguerite);
+  font-family: var(--font-family-open_sans);
+  font-size: var(--font-size-xl);
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 21px;
+  margin-top: 46px;
+  min-height: 31px;
+  width: 88px;
+}
+
+.flex-row-2 {
+  align-items: center;
+  align-self: center;
+  display: flex;
+  margin-left: 9px;
+  min-width: 812px;
+}
+
+.mask-group-1 {
+  height: 80px;
+  width: 80px;
+}
+
+.rectangle-29 {
+  background-color: var(--white);
+  border: 1px none;
+  border-radius: 25px;
+  height: 53px;
+  width: 1051px;
+}
+
+:root {
+  --black: rgba(0, 0, 0, 1);
+  --blue-marguerite: rgba(106, 91, 225, 1);
+  --alto: rgba(217, 217, 217, 1);
+  --white: rgba(225, 225, 225, 1);
+
+  --font-size-m: 14px;
+  --font-size-l: 15px;
+  --font-size-xl: 20px;
+  --font-size-xxl: 25px;
+  --font-size-xxxl: 35px;
+
+  --font-family-comfortaa: "Comfortaa";
+  --font-family-montserrat: "Montserrat";
+  --font-family-open_sans: "Open Sans";
+}
+
+/* Classes */
+
+.comfortaa-light-black-15px {
+  color: var(--black);
+  font-family: var(--font-family-comfortaa);
+  font-size: var(--font-size-l);
+  font-weight: 300;
+  font-style: normal;
+}
+
+.comfortaa-normal-black-14px {
+  color: var(--black);
+  font-family: var(--font-family-comfortaa);
+  font-size: var(--font-size-m);
+  font-weight: 400;
+  font-style: normal;
+}
+
+.comfortaa-bold-black-15px {
+  color: var(--black);
+  font-family: var(--font-family-comfortaa);
+  font-size: var(--font-size-l);
+  font-weight: 700;
+  font-style: normal;
+}
+
+.opensans-bold-blue-marguerite-25px {
+  color: var(--blue-marguerite);
+  font-family: var(--font-family-open_sans);
+  font-size: var(--font-size-xxl);
+  font-weight: 700;
+  font-style: normal;
+}
